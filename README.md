@@ -36,5 +36,4 @@ The hypotenuse (C) is: 5
 
 ## Author
 
-Luka
-
+Luka Ivanishvili
